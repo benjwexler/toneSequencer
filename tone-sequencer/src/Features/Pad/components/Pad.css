@@ -1,0 +1,13 @@
+.pad {
+    border: 1px solid black;
+    height: 100%;
+    /* transition: background .2s; */
+}
+
+.currentPadClass {
+    background: pink !important;
+}
+
+.padOnClass {
+    background: purple;
+}
